@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_snx_v3_liquidity=globalThis.webpackChunk_snx_v3_liquidity||[]).push([[7379],{37379:s=>{s.exports=JSON.parse('{"address":"0xb2F30A7C980f052f02563fb518dcc39e6bf38175","symbol":"USDx","name":"Synthetix USD","decimals":18}')}}]);
